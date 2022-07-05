@@ -55,6 +55,7 @@ section {
     color: white;
     font-weight: 900;
     background-image: linear-gradient(orange, red);
+    box-shadow: 7px 7px 30px black;
     padding: 10px 20px;
     border-radius: 10px;
     margin-top: 50px;
@@ -65,6 +66,12 @@ section {
     text-align: center;
     padding-top: 5%;
 
+}
+
+.recipe {
+    padding: 10px;
+    box-shadow: 10px 10px 40px black;
+    border-radius: 4%;
 }
 
 .end-section {
